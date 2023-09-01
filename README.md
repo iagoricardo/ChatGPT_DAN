@@ -1,6 +1,6 @@
-# ChatGPT "DAN" (e outros "Jailbreaks")
+# ChatGPT "DAN" (e outros "jailbreaks" são formas criativas de explorar o modelo de linguagem do ChatGPT)
 - <b>Romance Até agora, essas coisas funcionam bem para prompts no modelo GPT-4. (01/09/2023)
-- <b>Estamos constantemente investigando soluções alternativas inteligentes que nos permitem utilizar todo o potencial do ChatGPT.
+- <b>são formas de contornar as restrições impostas ao ChatGPT, um modelo de linguagem que pode gerar respostas baseadas em texto.
 ---
 
 - <https://chat.openai.com/>
