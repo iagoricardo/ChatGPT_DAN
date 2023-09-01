@@ -1,5 +1,5 @@
-# ChatGPT "DAN" (and other "Jailbreaks")
-- <b>Note. So far, these things working well for prompts on the GPT-4 model. (03/15/2023)
+# ChatGPT "DAN" (e outros "Jailbreaks")
+- <b>Note. So far, these things working well for prompts on the GPT-4 model. (01/09/2023)
 - <b>We are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT.
 ---
 
@@ -13,7 +13,7 @@
 
 [p2]: https://www.youtube.com/watch?v=rHZRrDu3A2U&lc=UgxfrxX8aK7gnCzkend4AaABAg
 -->
-## ChatGPT "DAN" (and other "Jailbreaks") PROMPTS
+## ChatGPT "DAN" (and other "Jailbreaks") PROMPTS 
 
 Some of these work better (or at least differently) than others. They all exploit the "role play" training model.
 
